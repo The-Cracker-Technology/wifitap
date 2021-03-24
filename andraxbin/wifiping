@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /opt/ANDRAX/wifitap
+
+python2 /opt/ANDRAX/wifitap/wifiping.py "$@"
